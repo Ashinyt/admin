@@ -1,3 +1,3 @@
-watsapp admin tool for terminal & window
+watsapp admin tool for termux & kali
    
 
