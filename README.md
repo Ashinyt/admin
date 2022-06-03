@@ -1,3 +1,3 @@
-watsapp admin tool for 
+watsapp admin tool for terminal & window
    
-   git 
+
